@@ -1,0 +1,15 @@
+﻿D:\MVS\VisualStudio\Main\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (TwoCastlles.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  TwoCastlles.cpp
+C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\TwoCastlles.cpp(3818,42): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\TwoCastlles.cpp(3832,44): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\TwoCastlles.cpp(3846,42): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\TwoCastlles.cpp(3860,43): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\TwoCastlles.cpp(3904,26): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\TwoCastlles.cpp(3908,32): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\TwoCastlles.cpp(3913,32): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  3 of 181 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TwoCastlles.vcxproj -> C:\Users\artur\OneDrive\Рабочий стол\dev2\C++ learning\TwoCastlles\x64\Release\TwoCastles.exe
